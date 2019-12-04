@@ -1,0 +1,9 @@
+header .container {
+  align-items: center;
+}
+header .box {
+  width: 50%;
+}
+.my_work .box {
+  width: 48%;
+}
